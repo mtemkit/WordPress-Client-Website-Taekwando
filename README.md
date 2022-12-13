@@ -1,2 +1,12 @@
-# Client-Website---Taekwando---WordPress
-WordPress Site made for a client with the Algonquin Web Development Team. 
+# Client-Website-Taekwando-WordPress
+
+**Summary:**\
+The Algonquin Web Development Team developed this WordPress site for the client by December, 2022.
+
+**Team Members**:\
+Mohamed Temkit\
+Kaldoun Alzohbi\
+Stevens Cossy\
+Kazi Bubka\
+Sukayna Dawd\
+Spencer Haas
