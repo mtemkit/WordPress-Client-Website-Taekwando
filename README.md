@@ -15,4 +15,4 @@ Spencer Haas
 https://mtemkit.github.io/Client-Website-Taekwando-WordPress/
 
 **Website Code:**\
-Can be found in the lindenleatkd.com folder.
+Can be found in the lindenleatkd.com folder in the main branch.
