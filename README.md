@@ -6,7 +6,6 @@ The Algonquin Web Development Team developed this WordPress site for the client 
 **Team Members**:\
 Mohamed Temkit\
 Kaldoun Alzohbi\
-Stevens Cossy\
 Kazi Bubka\
 Sukayna Dawd\
 Spencer Haas
