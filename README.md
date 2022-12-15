@@ -14,7 +14,7 @@ Spencer Haas
 https://mtemkit.github.io/Client-Website-Taekwando-WordPress/
 
 **Hosting:**\
-We used BlueHost to host this website.
+BlueHost was used to host this website.
 
 **Plugins Used:**\
 BeTheme
