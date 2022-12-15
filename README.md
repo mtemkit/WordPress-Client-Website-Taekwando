@@ -17,7 +17,7 @@ https://mtemkit.github.io/Client-Website-Taekwando-WordPress/
 BlueHost was used to host the original version of this website.
 
 **Plugins Used:**\
-BeTheme
+BeTheme, BeCustom, Elementor, LayerSlider, Slider Revolution, UpdraftPlus, Backup/Restore, Yoast
 
 **Website Code:**\
 Can be found in the lindenleatkd.com folder in the main branch.
