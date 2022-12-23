@@ -11,7 +11,7 @@ Sukayna Dawd\
 Spencer Haas
 
 **Website Demo:**\
-https://mtemkit.github.io/Client-Website-Taekwando-WordPress/
+https://mtemkit.github.io/WordPress-Client-Website-Taekwando
 
 **Hosting:**\
 BlueHost was used to host the original version of this website.
